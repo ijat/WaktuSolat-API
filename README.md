@@ -3,7 +3,7 @@ Public WaktuSolat API server written from scratch using .NET Core. Prayer times 
 
 ## How to use?
 
-Visit [https://ws.api.ijat.my](ws.api.ijat.my)
+Visit [ws.api.ijat.my](https://ws.api.ijat.my)
 
 ## How to run or build on your own server?
 
