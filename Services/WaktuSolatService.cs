@@ -72,7 +72,7 @@ namespace WaktuSolat_API.Services
 
                 return waktuSolat;
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 throw new WaktuSolatException("Waktu solat not available at this time");
             }
